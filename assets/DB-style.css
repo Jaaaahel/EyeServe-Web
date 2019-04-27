@@ -1,0 +1,38 @@
+body{
+	background-color: #005685;
+}
+.column{
+	background-color: white;
+	margin-top: 20px;
+}
+.hero{
+	background-color: #005685;
+}
+.subtitle{
+	color: #005685;
+}
+.register{
+	position:fixed;
+    left:50%;
+}
+.bar{
+    margin-bottom: 30px;
+}
+select {
+    min-width: 180px;
+    min-height: 45px;
+    border-width: 3px;
+    border-color: rgba(50, 50, 50, 0.14);
+    margin: 10px 10px 10px 0px;
+    font-size: 20px;
+}
+.pages {
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.userdevices {
+    margin-left: 5px;
+}
+.forgot {
+    margin-top: 50px;
+}
